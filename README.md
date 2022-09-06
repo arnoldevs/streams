@@ -2,7 +2,8 @@
 
 Notes related to lambda expressions and streams, which are introduced as of Java 8.
 
-***if higher performance is required, you can use ParallelStream, more information [**aquí**][Baeldung].***
+***if higher performance is required  
+you can use ParallelStream, more information [**here**][Baeldung].***
 
 The purpose of this repository is to give a brief introduction to functional programming.
 
